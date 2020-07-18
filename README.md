@@ -15,8 +15,6 @@ Hi, I'm Shubhadarshie Nanda, a Web Developer and Programmer who loves algorithm 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-<!--
-**nanda-mik/nanda-mik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 **Talking about Personal Stuffs:**
 
@@ -26,7 +24,7 @@ Hi, I'm Shubhadarshie Nanda, a Web Developer and Programmer who loves algorithm 
 - 💬 Ask me about anything, I am ready to help...
 - 📫 How to reach me: nandamikushubha@gmail.com...
 - 📝[Portfolio](https://shubha-portfolio.herokuapp.com/)
--->
+
 
 **Languages and Tools:**
 
