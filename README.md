@@ -13,7 +13,7 @@
 
 Hi, I'm Shubhadarshie Nanda, a Web Developer and Programmer who loves algorithm 🚀 from Odisha, India. Currently, I'm a Content Writer 🙍🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), Campus Mantri 👨🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), Intern 👨🏽‍💻 [@StartupTalky](https://startuptalky.com/). Beside's Coding, I love playing Chess.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 <!--
 **nanda-mik/nanda-mik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
