@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm Shubhadarshie Nanda, a Full Stack Developer and Programmer who loves algorithm 🚀 from Odisha, India. Currently, I'm a Technical Content Writer 🙍🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), GfG Student Chapter Lead 👨🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), Intern 👨🏽‍💻 [@StartupTalky](https://startuptalky.com/), Full Stack Teaching Assistant Intern 💻[@Crio.Do](https://www.crio.do/). Beside's Coding, I love playing Chess.
+Hi, I'm Shubhadarshie Nanda, a Full Stack Developer and Programmer who loves algorithm 🚀 from Odisha, India. Currently, I'm a Technical Content Writer 🙍🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), GfG Student Chapter Lead 👨🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), Intern 👨🏽‍💻 [@StartupTalky](https://startuptalky.com/), Full Stack Teaching Assistant Intern 💻[@Crio.Do](https://www.crio.do/). Beside's Coding, I love playing Chess & Cricket.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
