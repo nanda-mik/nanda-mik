@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, Myself Shubhadarshie Nanda. Currently, I'm Software Development Engineer 1 💻[@Innovaccer](https://innovaccer.com/). Past Full Stack Teaching Assistant 💻[@Crio.Do](https://www.crio.do/), Technical Content Writer 🙍🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), GfG Student Chapter Lead 👨🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), Intern 👨🏽‍💻 [@StartupTalky](https://startuptalky.com/), . Beside's Coding, I love playing Chess & Cricket.
+Currently, I'm Software Development Engineer 1 💻[@Innovaccer](https://innovaccer.com/). Past Full Stack Teaching Assistant 💻[@Crio.Do](https://www.crio.do/), Technical Content Writer 🙍🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), GfG Student Chapter Lead 👨🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), Intern 👨🏽‍💻 [@StartupTalky](https://startuptalky.com/), . Beside's Coding, I love playing Chess & Cricket.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
