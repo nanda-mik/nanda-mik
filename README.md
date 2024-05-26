@@ -13,8 +13,6 @@
 
 Currently, I'm Software Development Engineer 2 💻[@Innovaccer](https://innovaccer.com/). Past Full Stack Teaching Assistant 💻[@Crio.Do](https://www.crio.do/), Technical Content Writer 🙍🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), GfG Student Chapter Lead 👨🏽‍♂️ [@GeeksforGeeks](https://www.geeksforgeeks.org/), Intern 👨🏽‍💻 [@StartupTalky](https://startuptalky.com/), . Beside's Coding, I love trekking & playing sports.
 
-Check out my website here: https://shubha-resume.netlify.app/
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 
